@@ -4,4 +4,3 @@ Neste projeto criei uma calculadora com funcionalidades básicas. Utilizando Jav
 
 
 #### Teste :tw-2199:
-Para experimentar o projeto em ação, acesse a versão de demonstração clicando aqui.
