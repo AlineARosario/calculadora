@@ -1,4 +1,4 @@
-###### CALCULADORA :tw-1f4df:
+##### **CALCULADORA:smile:**
 
 Neste projeto criei uma calculadora com funcionalidades básicas. Utilizando JavaScript, HTML e CSS
 
